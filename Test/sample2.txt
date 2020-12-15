@@ -1,0 +1,23 @@
+﻿1000.00  0.00  -10.00    POS Purchase                              01/01/2000  
+
+                from POS No. 0000000000000 In
+
+                BIG STORE In City , Riyadh
+
+                On 2000-01-01 & 00:00 ,Ref 
+                
+                No. FT0000000000000
+                         
+1000.00  100.00  0.00    SARIE incoming transfer                  01/01/2000
+
+            to 0 1234.00 SAR From Big
+
+            Corporation & corporation
+
+            GROUP - S.A. On 2000-01-01 & 00:00
+
+            ,Ref No. FT00000000000 , UTI Ref No.
+
+            SAMB000000000  Due On 2000-01-01
+
+            For 0 , /RFB/000000000000

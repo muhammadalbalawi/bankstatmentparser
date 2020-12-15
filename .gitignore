@@ -1,0 +1,10 @@
+Main/bin/
+Main/obj/
+
+Test/bin/
+Test/obj/
+
+packages/
+/Test/sample.txt
+
+.vs/
